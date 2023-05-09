@@ -1,9 +1,9 @@
 ﻿@charset"UTF-8";
 /* Kommentar */
 div {
-    width: 100px;
+    width: 200px;
     height: 100px;
-    background: #6134EB;
+    background-color: pink;
     animation-name: move-box;
     animation-duration: 2s;
     animation-delay: 1s;
